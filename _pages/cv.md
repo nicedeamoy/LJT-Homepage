@@ -11,35 +11,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Computer Science, Hong Kong University of Science and Technology, 2024 - Present
+  * Advisor: Prof. Junxian He
+  * Research group: HKUST NLP Group
+* B.Eng., Shanghai Jiao Tong University, 2020 - 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Feb 2025 - Present: Research Intern
+  * MINIMAX
+  * Focused on natural language processing research
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jun 2024 - Sep 2024: Research Intern
+  * Tencent WXG
+  * Supervisor: Zifei Shan
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Jun 2023 - Dec 2023: Research Intern
+  * Shanghai AI Lab
+  * Supervisor: Prof. Yu Cheng
+
+Research Interests
+======
+* LLM Reasoning and Reinforcement Learning
+* Hallucination in Vision-Language Models (VLMs)
+* LLM Truthfulness and Interpretability
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, PyTorch, Hugging Face Transformers
+* Research: Natural Language Processing, Machine Learning, Deep Learning
+* Languages: English, Chinese
 
 Publications
 ======
@@ -47,18 +48,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Honors & Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
