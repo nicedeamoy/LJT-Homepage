@@ -22,14 +22,6 @@ Prior to starting my Ph.D., I received my Bachelor of Engineering degree from Sh
 - **2023**: Two papers accepted to NeurIPS 2023.
 - **Jun 2024**: Graduated from SJTU and started my Ph.D. at HKUST.
 
-## Selected Publications
-
-A full list of publications is available on the [Publications page](/publications/).
-
-<ul>{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
-
 ## Education
 
 - **Ph.D. in Computer Science**, Hong Kong University of Science and Technology (2024 - Present)
@@ -48,3 +40,11 @@ A full list of publications is available on the [Publications page](/publication
 ## Honors & Awards
 
 - Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
+
+## Selected Publications
+
+A full list of publications is available on the [Publications page](/publications/).
+
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
